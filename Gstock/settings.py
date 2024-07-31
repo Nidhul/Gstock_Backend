@@ -36,6 +36,7 @@ INSTALLED_APPS = [
     "corsheaders"
 ]
 
+ALLOWED_HOSTS = ['*']
 
 
 REST_FRAMEWORK = {
