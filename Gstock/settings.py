@@ -95,7 +95,12 @@ DATABASES = {
 
 CORS_ALLOWED_ORIGINS = [
  'http://localhost:3000' ,      
-'http://192.168.29.104:3000'
+'http://192.168.29.104:3000',
+'https://main.drtvpyfl6wtkd.amplifyapp.com',
+'https://gstock-login.web.app',
+'http://51.21.149.81:8000',
+'http://51.21.150.84:8000'
+
 ]
 
 # Password validation
