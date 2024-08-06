@@ -101,6 +101,7 @@ CORS_ALLOWED_ORIGINS = [
 'http://51.21.149.81:8000',
 'http://51.21.150.84:8000',
  'https://13.49.80.176',
+ 'https://staging.d3qsnye2kw2tad.amplifyapp.com',
 
 ]
 
